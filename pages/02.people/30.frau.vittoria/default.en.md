@@ -5,7 +5,7 @@ visible: false
    
 ###Vittoria Frau
    
-<img src="/lab/user/pages/02.people/20.frau.vittoria/img/vittoriafraupic.jpg" alt="Foto di Vittoria Frau" style="height: 250px">
+<img src="/lab/user/pages/02.people/30.frau.vittoria/img/vittoriafraupic.jpg" alt="Foto di Vittoria Frau" style="height: 250px">
    
 **Research fellow**
    
