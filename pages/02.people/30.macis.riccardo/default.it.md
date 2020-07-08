@@ -11,4 +11,6 @@ visible: false
    
 ===
 ### Biografia Breve
-Riccardo Macis è uno studente magistrale in Informatica presso il Dipartimento di Matematica e Informatica dell'università di Cagliari. Da Novembre 2019 è borsista per il progetto PAC-PAC. I suo ambiti di interesse sono la Human-Computer Interaction, Tecnologia XR, Internet of Things, design e sviluppo di Videogiochi.
+Riccardo Macis è uno studente magistrale in Informatica presso il Dipartimento di Matematica e Informatica dell'università di Cagliari.
+Da Novembre 2019 è borsista per il progetto PAC-PAC. La sua tesi triennale ha sviluppato un videogioco in Unity con funzioni di biofeedback, durante gli studi ha sviluppato una libreria unity per feedback aptici in ambienti di realtà virtuale.
+I suo ambiti di interesse sono la Human-Computer Interaction, Tecnologia XR, Internet of Things, design e sviluppo di Videogiochi.
