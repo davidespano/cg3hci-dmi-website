@@ -5,7 +5,7 @@ visible: false
    
 ###Gianmarco Cherchi
    
-<img src="/lab/user/pages/02.people/10.gianmarco.cherchi/img/gcherchi_img.png" alt="Picture of Gianmarco Cherchi" style="height: 250px">
+<img src="/lab/user/pages/02.people/10.gianmarco.cherchi/img/gcherchi_img.jpeg" alt="Picture of Gianmarco Cherchi" style="height: 250px">
    
 **Assistant Professor**
    
