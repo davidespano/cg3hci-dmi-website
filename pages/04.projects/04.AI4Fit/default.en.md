@@ -19,15 +19,15 @@ The main objective of the project is to increase the current functionality of th
 The project has been funded by [Sardegna Ricerche](https://www.regione.sardegna.it/) started in 
 2017 and it will finish in 2020. 
 
-##Sommario
-1. [Obiettivi](#obiettivi)
+##Outline
+1. [Project Goals](#obiettivi)
 2. [Results](#risultati)
 3. [The Research Group](#gruppo)
 5. [Papers](#pubblicazioni)
 
 <a id="obiettivi"></a>
 
-## Obiettivi
+## Project Goals
 u4Fit is an app for runners of all levels, which tries to respond with technology to the problem of do-it-yourself workouts that result in being ineffective
 due to a fluctuating motivation and puts health risks due to incorrect training protocols. u4fit solves these problems by offering the possibility of being supported and supervised
 remotely by a real coach, choosing it from many available in a free marketplace. It also provides both (coaches and athletes) with cutting-edge tools to support them in their respective activities: work platform for trainers and training tools for athletes.
@@ -36,9 +36,9 @@ During the project, the goal is to add artificial intelligence algorithms to pro
 
 <a id="risultati"></a>
 
-## Risultati
+## Results
 
-###Visualizzazione dei dati per gli allenatori
+###Data visualization for coaches
 We created an interface for the automatic classification algorithms and the advice from a human expert for providing remote feedback to runners. The intelligent support proposes a rating for each registered workout using machine learning techniques, while the interface explicitly represents the classification confidence and the limits for increasing and decreasing the rating for each considered feature. The goal is providing high-quality feedback to a large number of athletes, focusing the coach's attention on those workouts that require the analysis of an expert, supporting both the inspection and the control of the machine proposed classification. We evaluated the interface with real coaches showing a good acceptance of the visualization. .
 <a id="figura1"></a>
 
@@ -47,7 +47,7 @@ We created an interface for the automatic classification algorithms and the advi
 *Figura 1: Visualization of a sample workout consisting of four segments with different goals (time, distance, time and distance, pace). It contains four different time-aligned graphs on the x axis, one for each tracked metric: distance, pace, heartbeats per minute and altitude (height). White spaces on the x axis correspond to rest times between two workouts segments.*
 
 
-### Ispezione dei dati in linguaggio naturale
+### Inspecting data using natural language
 We created a simple architecture for supporting the inspection of a generic dataset using natural language queries. We show how to integrate modern Articial Intelligence libraries in the system and how to derive chart visualization out of the user's intent. Finally, we report on the user evaluation of the interface, showing a good acceptance and theectiveness of the proposed approach.
 
 <a id="figura2"></a>
@@ -58,7 +58,7 @@ We created a simple architecture for supporting the inspection of a generic data
 
 <a id="gruppo"></a>
 
-## Gruppo di Ricerca
+## Research Group
 * **Lucio Davide Spano.** Principal Investigator.
 * **Federico Maria Cau.** Research Fellow.
 * **Mattia Samuel Mancosu.** Research Fellow.
