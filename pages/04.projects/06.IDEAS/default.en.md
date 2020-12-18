@@ -7,7 +7,7 @@ visible: false
 
 <div style="text-align: center">
 <header>
-<h1><img src="img/ideash2020.png" alt="IDEAS"> </h1>
+<h1><img src="https://cg3hci.dmi.unica.it/lab/user/pages/04.projects/06.IDEAS/img/ideash2020.png" alt="IDEAS"> </h1>
 <p>Novel building Integration Designs for increased Efficiencies in Advanced Climatically Tunable Renewable Energy Systems</p>
 </header>
 </div>
