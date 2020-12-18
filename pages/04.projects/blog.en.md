@@ -3,7 +3,6 @@ title: Projects
 content:
     items:
         - '@self.children'
-    limit: 5
     order:
         by: date
         dir: desc
