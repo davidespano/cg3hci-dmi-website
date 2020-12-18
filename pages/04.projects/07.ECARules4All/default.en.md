@@ -1,5 +1,5 @@
 ---
-title: ECARules4All (XR4All 2nd Open Call)
+title: ECARules4All (XR4All)
 date: '18-12-2020 16:52'
 publish_date: '18-12-2020'
 visible: false
